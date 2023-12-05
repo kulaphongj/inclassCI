@@ -1,1 +1,1 @@
-# inclassCI
+# InClassCIN
